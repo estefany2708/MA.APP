@@ -1,2 +1,2 @@
-# MA.APP
+# MA⚙︎APP
 APP
